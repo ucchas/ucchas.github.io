@@ -4,8 +4,9 @@ This is my personal website. I demonstrate here who I am, what I do, my experien
 
 ## Tools used to build the website:
 
-- x
-- y
-- z
+- HTML
+- SCSS
+- CSS
+- JavaScript
 
 ## lalala
